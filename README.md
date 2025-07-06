@@ -50,15 +50,16 @@ The primary objective of this project is to analyze to identify key areas within
 
 ## 📈 Key Insights
 
-- 🧠 [Insight 1: E.g., "Region A generated 45% of total revenue"]
-- 📉 [Insight 2: E.g., "Sales dropped significantly in Q2 2022"]
-- 💹 [Insight 3: E.g., "Product category B showed the highest growth"]
+- Gender representation across different levels of the organization, highlighting any discrepancies that may affect company culture.
+- Departments or regions with notable gender pay gaps that require immediate attention.
+- The number of employees affected by the new minimum wage regulation and strategies for addressing any compliance issues.
+- Recommendations for management on policies to improve gender equality, such as mentorship programs or salary review mechanisms.
 
 ## 📌 Business Recommendations
 
-- [Recommendation 1 based on insight]
-- [Recommendation 2 based on trend]
-- [Recommendation 3 based on KPI]
+The Power BI analysis provides a clear view of employee compensation, performance links to bonus structures, and areas requiring action to ensure equity in pay. Recommendations include: 
+- addressing identified gender pay gaps
+- enhancing transparency in bonus allocations to foster a fair workplace culture
 
 ## 🔄 Future Improvements
 
