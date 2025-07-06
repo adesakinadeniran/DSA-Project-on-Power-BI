@@ -41,11 +41,9 @@ The primary objective of this project is to analyze to identify key areas within
 
 ## 📊 Dashboard Screenshots
 
-### 📍 Dashboard 1: [Dashboard Title]
-[Dashboard 1](https://github.com/user-attachments/assets/ac213617-63d7-4d5b-b4ce-3bb02a181e5c)
+### 📍[Dashboard 1](https://github.com/user-attachments/assets/ac213617-63d7-4d5b-b4ce-3bb02a181e5c)
 
-### 📍 Dashboard 2: [Dashboard Title]
-[Dashboard 2](https://github.com/user-attachments/assets/2dde937d-b7dd-4cf7-9837-0476c71b212e)
+### 📍 [Dashboard 2](https://github.com/user-attachments/assets/2dde937d-b7dd-4cf7-9837-0476c71b212e)
 
 
 ## 📈 Key Insights
@@ -71,7 +69,7 @@ The Power BI analysis provides a clear view of employee compensation, performanc
 
 `bash
 .
-├── data/               # Raw or cleaned dataset (if allowed)
+├── data/               # Raw or cleaned dataset
 ├── images/             # Dashboard screenshots
 ├── .pbix               # Power BI project file
 ├── README.md           # Documentation file
